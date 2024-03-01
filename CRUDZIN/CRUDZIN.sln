@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CRUDZIN", "CRUDZIN.csproj", "{F68604B9-DE0F-4EF3-8937-3BD7A3454D69}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Itens de Solução", "Itens de Solução", "{579EF584-C20C-4EF9-9296-19C485101CC7}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F68604B9-DE0F-4EF3-8937-3BD7A3454D69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F68604B9-DE0F-4EF3-8937-3BD7A3454D69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F68604B9-DE0F-4EF3-8937-3BD7A3454D69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F68604B9-DE0F-4EF3-8937-3BD7A3454D69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B42F5D2B-9C29-42DF-B752-8A5E89CBD4CE}
+	EndGlobalSection
+EndGlobal
